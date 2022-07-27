@@ -58,7 +58,7 @@ main div:nth-of-type(3) div {
 }
 
 main div:nth-of-type(3) div p {
-  height: 355px;
+  height: 340px;
   overflow: scroll;
 }
 main div:nth-of-type(3) div p::-webkit-scrollbar {
@@ -70,6 +70,7 @@ main div:nth-of-type(3) button {
   color: white;
   width: 170px;
   margin: 0 auto;
+  margin-top: 15px;
 }
 
 footer {
